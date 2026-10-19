@@ -1,6 +1,0 @@
-{
-  "name": "Isuzu Out-Stock & Expedition VIN Tracker",
-  "description": "Mobile-first vehicle out-stock inventory and VIN dispatch tracker for TRAGA, ELF, GIGA, D-MAX, and MU-X with Excel batch paste, dedicated expedition sections, role-based access, and rapid VIN lookup.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
